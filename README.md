@@ -41,9 +41,9 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-started with the html
-linked it to the css
-the resulting page was loaded to the DOM with javascript since it is a web app
+- Started with the html
+- linked it to the css
+- The resulting page was loaded to the DOM with javascript since it is a web app
 
 ### Built with
 
@@ -55,19 +55,21 @@ the resulting page was loaded to the DOM with javascript since it is a web app
 
 ### What I learned
 
-well i still have to refactor these code since they are not resusable so i am working on that, but for now. i learned how to carry out some actions before a click result is executed
+well i have refactored these code they are not resusable and working perfectly
 
 How to load html codes from javascript
 
 
 ### Continued development
-i will look for ways to redice the code to improve the perfromance of the page, but then it works very fine on all screen size
-Refactoring is in porgress and will be updated soon
+- i will look for ways to add more action to the card 
+- For now the perfromance is on par
 
 ### Useful resources
 
 - [Bro Code Youtube chnannel] - This helped me set timeout before executing a click action using his tutorial 
 - i was able to correct the mistakes while making the codes shorter and faster
+- Freecodecamp
+- Frontend Mentor
 
 
 ## Author
