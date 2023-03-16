@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/devsilva/frontend-pratice3-vs2/)
-- Live Site URL:(https://devsilva.github.io/frontend-pratice3-vs2/
+- Solution URL: https://github.com/devsilvar/frontend-pratice3-vs2/)
+- Live Site URL:(https://devsilvar.github.io/frontend-pratice3-vs2/
 
 ## My process
 - Started with the html
@@ -75,7 +75,7 @@ How to load html codes from javascript
 ## Author
 
 - Website - [Aiyegbajeje Yusuf Silva]
-- Frontend Mentor - [@devsilva](https://www.frontendmentor.io/profile/devsilva)
+- Frontend Mentor - [@devsilvar](https://www.frontendmentor.io/profile/devsilva)
 - Twitter - [@001Refsilva](https://www.twitter.com/001Refsilva)
 
 
